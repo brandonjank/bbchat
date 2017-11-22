@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "name": "bbChat",
+  "launch_path": "/index.html",
+  "description": "A real-time web chat.",
+  "developer": {
+    "name": "Brandon Jank",
+    "url": "https://jank.io"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "bbChat",
+      "description": "A real-time web chat."
+    }
+  }
+}
